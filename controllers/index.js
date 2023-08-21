@@ -1,4 +1,4 @@
-const date = require("/mnt/15b56983-3609-478a-a82b-cd68c6ae5d33/Files/Coding/CSE/4th year training/date.js");
+const date = require("../date.js");
 
 var items = []; // Variables serving as local database instead of an actual database
 var workítems = [];
